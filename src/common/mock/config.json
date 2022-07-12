@@ -1,0 +1,30 @@
+{
+    "templates":[
+        {
+            "id":"852",
+            "name":"GM后台邮件",
+            "title":"GM后台标题{{msgReasonMail}}",
+            "content":"邮件{{msgReasonMail}}游戏{{msgReasonMail}}标题{{msgReasonMail}}发起人{{msgReasonMail}}点击这里查看{{msgReasonMail}}",
+            "titleVariable":"{{msgReasonMail}}",
+            "contentVariable":"{{msgReasonMail}}{{msgReasonMail}}{{msgReasonMail}}{{msgReasonMail}}{{msgReasonMail}}{{msgReasonMail}}",
+            "picUrl":"https://img2.woyaogexing.com/2022/07/05/24c10402c0b964ba!400x400.jpg"
+        }
+    ],
+    "groups":[
+        {
+            "id":"121",
+            "name":"未分组"
+        }
+    ],
+    "messages":[
+        {
+            "id":"964",
+            "name":"GM后台消息-邮件",
+            "group":0,
+            "tool":"钉钉",
+            "type":"机器人单聊",
+            "templateId":0,
+            "state":"using"
+        }
+    ]
+}
